@@ -1,2 +1,2 @@
-plotly==1.25
+plotly==5.22
 numpy==1.26.4
